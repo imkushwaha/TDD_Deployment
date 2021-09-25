@@ -1,4 +1,6 @@
-﻿altair==4.1.0
+﻿Rust
+ Cargo
+ altair==4.1.0
 APScheduler==3.6.3
 argcomplete==1.12.3
 argon2-cffi==20.1.0
