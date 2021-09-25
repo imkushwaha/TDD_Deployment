@@ -6,4 +6,5 @@ pandas
 requests
 flask
 flask_cors
+imblearn
 
