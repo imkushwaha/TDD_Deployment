@@ -1,7 +1,7 @@
 gunicorn
 wheel
 pip==1.4
-sklearn==0.22.1
+sklearn
 xgboost
 numpy
 pandas
