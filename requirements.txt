@@ -1,5 +1,5 @@
 gunicorn
-slearn
+sklearn
 xgboost
 numpy
 pandas
