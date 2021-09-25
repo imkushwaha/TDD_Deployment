@@ -1,4 +1,7 @@
 gunicorn
+wheel
+pip==1.4
+setuptools==0.8
 sklearn==0.22.1
 xgboost
 numpy
