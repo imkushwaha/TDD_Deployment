@@ -1,6 +1,4 @@
 gunicorn
-wheel
-pip==1.4
 sklearn
 xgboost
 numpy
