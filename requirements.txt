@@ -1,5 +1,5 @@
 gunicorn
-sklearn
+sklearn==0.22.1
 xgboost
 numpy
 pandas
