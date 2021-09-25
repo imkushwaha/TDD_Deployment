@@ -1,13 +1,8 @@
 gunicorn
-scikit-learn==0.22.1
-Cython==0.28.5
+slearn
 xgboost
-numpy==1.11.0
+numpy
 pandas
 requests
-Flask==1.1.1
-Flask-Cors==3.0.8
-kneed==0.5.1
-matplotlib==3.1.2
-matplotlib-inline==0.1.2
-urllib3==1.26.6
+flask
+
